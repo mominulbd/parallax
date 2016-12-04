@@ -18,7 +18,8 @@ If not:
     $('.parallax').scrolly({bgParallax: true});
     
     
-    
+Bower Install
+$ bower Install mominulbd/parallax --save  
     
 ######License
 MIT Licence"# parallax" 
