@@ -19,6 +19,7 @@ If not:
     
     
 Bower Install
+
 $ bower Install mominulbd/parallax --save  
     
 ######License
